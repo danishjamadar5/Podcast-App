@@ -30,7 +30,7 @@ function Header() {
           to="/profile"
           className={currentPath === "/profile" ? "active" : ""}
         >
-          Profile
+          Profiles
         </Link>
       </div>
     </div>
