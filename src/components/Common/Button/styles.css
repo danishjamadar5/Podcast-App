@@ -13,5 +13,5 @@
 .custom-btn:hover {
   background-color: var(--white);
   color: var(--theme);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
